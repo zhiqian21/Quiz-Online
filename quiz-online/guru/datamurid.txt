@@ -1,0 +1,3 @@
+nama,nokp,katalaluan,id kelas
+Aziz,1212,123,1
+Fahmi,2323,123,2

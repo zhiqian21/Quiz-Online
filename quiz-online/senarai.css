@@ -1,0 +1,56 @@
+table{
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    
+    width: 100%;
+    margin: 10px;
+    border-collapse: collapse;
+}
+
+caption{
+    font-size: 23px;
+    font-weight: bold;
+    color: darkviolet;
+    padding: 8px;
+}
+
+td,th{
+    padding: 15px;
+    width:100%;
+    border: 2px solid purple;
+}
+
+td.bil{
+    width: 20px;
+}
+
+td.soalan{
+    width: 300px;
+    text-align: left;
+}
+
+td.skema{
+    width: 120px;
+    text-align: left;
+}
+
+td.keputusan{
+    width: 250px;
+}
+
+tr:nth-child(odd){
+    background-color: thistle;
+}
+
+tr:nth-child(even){
+    background-color: lavender;
+}
+
+th{
+    font-weight: bold;
+    color:white;
+    background-color: darkviolet;
+    width: 100%
+}
